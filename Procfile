@@ -1,1 +1,1 @@
-web: GF_SERVER_HTTP_PORT=$PORT ./grafana-server
+web: chmod +x ./grafana-server; GF_SERVER_HTTP_PORT=$PORT ./grafana-server
