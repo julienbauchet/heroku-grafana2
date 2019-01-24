@@ -1,0 +1,16 @@
+{
+  "addons": [
+    "heroku-postgresql"
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "heroku-grafana2",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
